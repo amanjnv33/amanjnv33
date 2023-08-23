@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amanjnv33
+- 👋 Hi, I’m @aman kumar 
 - 👀 I’m interested in machine learning.
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on ...
